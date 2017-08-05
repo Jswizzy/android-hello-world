@@ -14,6 +14,8 @@ android {
     }
 }
 
+
 dependencies {
+    compile 'com.android.support.constraint:constraint-layout:+'
     androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
 }

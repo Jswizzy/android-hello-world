@@ -1,6 +1,17 @@
 <resources>
-  <string name="app_name">Hello World</string>
-  <string name="hello_world">Hello world!</string>
-  <string name="say_bye">Say bye!</string>
-  <string name="bye">Goodbye!</string>
+    <string name="app_name">Hello World</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="say_bye">Say bye!</string>
+    <string name="bye">Goodbye!</string>
+    <string name="title_activity_LayoutFundamentals">Layout Fundamentals</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="middle">Middle</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">ok</string>
+    <string name="center">Center</string>
+    <string name="north">North</string>
+    <string name="east">East</string>
+    <string name="west">West</string>
+    <string name="south">South</string>
 </resources>
